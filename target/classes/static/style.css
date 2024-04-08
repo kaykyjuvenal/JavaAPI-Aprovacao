@@ -1,0 +1,248 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 100%; height: 775px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_tela_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#_bg__tela_1_ek2 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 90%
+}
+
+#section_1 {
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#_bg__section_1_ek1 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 80%;
+}
+
+
+#fundo {
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background:rgba(105.19,3.94,3.94,1);
+}
+
+
+#book_illustration_with_black_and_red_cover_free_png_3 {
+	top: 35%;
+	left: 65%;
+	width: 519px;
+	height: 367px;
+}
+
+
+#book_illustration_with_black_and_red_cover_free_png_2 {
+	top: 35%;
+	left: 2%;
+	width: 519px;
+	height: 367px;
+}
+
+
+
+#footer{
+	background-color: black;
+	width: 100%;
+	top: 94%;
+}
+
+
+
+#desenvolvido_por_kayky_fl_vio_juvenal {
+	top: 0%;
+	left: 0px;
+	width: 100%;
+	height: 50px;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+	background-color: black;
+}
+
+#cabe_alho {
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 20%;
+}
+
+#header {
+	top: 0px;
+	left: 0px;
+	width:  100%;
+	height: 100%;
+	background:rgba(0,0,0,1);
+}
+
+
+#inicio {
+	top: 30%;
+	left: 6%;
+	width: 20%;
+	height: 40%;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 40px;
+	text-align: center;
+	align-items: center;
+	color:#FFFFFF;
+	background:rgba(105.19,3.94,3.94,1);
+
+}
+
+#empr_stimos {
+	left: 40%;
+	top: 30%;
+	width: 20%;
+	height: 40%;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+	background:rgba(105.19,3.94,3.94,1);
+
+}
+
+
+
+#armazenamento {
+	left: 73%;
+	top: 30%;
+	width: 20%;
+	height: 40%;
+	overflow: hidden;
+	font-family: Itim;
+	font-size: 40px;
+	text-align: center;
+	background:rgba(105.19,3.94,3.94,1);
+	color: #FFFFFF;
+}
+
+#edi__eselistagem {
+	top: 80%;
+	left: 92.5%;
+	width: 20%;
+	height: 10%;
+}
+
+
+
+#filter_list_fill0_wght400_grad0_opsz24_1 {
+	top: -280px;
+	left: -165%;
+	width: 20%;
+	height: 60%;
+}
+
+
+#edit_fill0_wght400_grad0_opsz24_1 {
+	top: -140px;
+	left: -165%;
+	width: 20%;
+	height: 60%;
+}
+
+#Listagem {
+	position: absolute;
+	top: -300px;
+	left: -252%;
+	width: 80%;
+	height: 100%;
+
+
+}
+
+#Alteração{
+	position: absolute;
+	top: -160px;
+	left: -252%;
+	width: 80%;
+	height: 100%;
+}
+#Bt1{
+	width: 100%;
+	height: 100%;
+	background-color: red;
+	color: white;
+	border: 1px solid black;
+	font-size: 16px;
+	border-radius: 10px;
+}
+#btnMostrarFormAlterar{
+	width: 100%;
+	height: 100%;
+	background-color: red;
+	color: white;
+	border: 1px solid black;
+	font-size: 16px;
+	border-radius: 10px;
+}
+#listaLivros {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 9999;
+	background-color: white;
+	border: 1px solid black;
+}
+
+#formAlterarLivro{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 9999;
+	background-color: white;
+	border: 1px solid black;
+}
+
+#formAlterarLivro input[type="number"],
+#formAlterarLivro input[type="text"],
+#formAlterarLivro input[type="date"] {
+	border: 1px solid black;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+#formAlterarLivro button[type="submit"] {
+	background-color: red;
+	color: white;
+	padding: 5px 10px;
+	border: none;
+	cursor: pointer;
+}
+
+#formAlterarLivro button[type="submit"]:hover {
+	background-color: darkred;
+}
+
+
+

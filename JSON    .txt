@@ -1,0 +1,21 @@
+    {
+    "codigo": 1,
+    "nome_livro": "livro",
+    "titulo": "Asdrubal JosaeA",
+    "autor": "Asdrubal JosaeA",
+    "nome_categoria": "Asdrubal",
+    "descricao": "Asdar",
+    "data_cadastro": "2024-11-29"
+    }
+
+{
+        "nome_livro": "livro",
+            "titulo": "Asdrubal JosaeA",
+            "autor": "Asdrubal JosaeA",
+            "categoria_livro":{
+        "nome_categoria": "Asdrubal",
+                "descricao": "Asdar",
+                "data_cadastro": "2024-11-29"
+    }
+
+    }
