@@ -1,2 +1,2 @@
-# JavaAPI-Aprovacao
-Api - para aprovação - HTML, CSS, JAVASCRIPT e JAVA.
+# JavaAPI-Biblioteca
+Api - Biblioteca - HTML, CSS, JAVASCRIPT e JAVA.
